@@ -1,6 +1,6 @@
 # 1. Домашнее задание к лекции «Компоненты»
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ef1cu8t20l67vw1s?svg=true)](https://ci.appveyor.com/project/ZoomZoom2/ra-components-store-class) [[GithubPages](https://zoomzoom2.github.io/RA-Components-store-class)]
+[![Build status](https://ci.appveyor.com/api/projects/status/pkayiq9qqnfvekx4?svg=true)](https://ci.appveyor.com/project/ZoomZoom2/ra-components-store-class) [[GithubPages](https://zoomzoom2.github.io/RA-Components-store-class)]
 
 ## 1.2 Страница интернет-магазина (class-based компонент)
 
