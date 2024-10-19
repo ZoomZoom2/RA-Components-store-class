@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RA-Components-store-class/static/css/main.5eadbb2b.css",
+    "main.js": "/RA-Components-store-class/static/js/main.884eef73.js",
+    "static/media/item-blue.jpg": "/RA-Components-store-class/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "static/media/item-black.jpg": "/RA-Components-store-class/static/media/item-black.dd74251d47c485703b4d.jpg",
+    "index.html": "/RA-Components-store-class/index.html",
+    "main.5eadbb2b.css.map": "/RA-Components-store-class/static/css/main.5eadbb2b.css.map",
+    "main.884eef73.js.map": "/RA-Components-store-class/static/js/main.884eef73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eadbb2b.css",
+    "static/js/main.884eef73.js"
+  ]
+}
